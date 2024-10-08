@@ -6,7 +6,7 @@
     </root>
     <schema id="2" parent="1" name="main">
       <Current>1</Current>
-      <LastIntrospectionLocalTimestamp>2024-10-08.16:58:56</LastIntrospectionLocalTimestamp>
+      <LastIntrospectionLocalTimestamp>2024-10-08.18:05:08</LastIntrospectionLocalTimestamp>
     </schema>
     <table id="3" parent="2" name="abc_table"/>
     <table id="4" parent="2" name="auth_group"/>
