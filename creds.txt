@@ -1,0 +1,3 @@
+admin creds
+vinod.vinnu542@gmail.com
+Django@123
